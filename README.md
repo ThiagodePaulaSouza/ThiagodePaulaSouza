@@ -10,7 +10,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Thigas-Java" height="40" wifth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Thigas-c" height="40" wifth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Thigas-csharp" height="40" wifth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thigas-python" height="40" wifth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thigas-arduino" height="40" wifth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="right" alt="Thigas-gif"  height="150" wifth="150" src="https://c.tenor.com/GCpJBUm3YBQAAAAC/umm-confused.giff">
