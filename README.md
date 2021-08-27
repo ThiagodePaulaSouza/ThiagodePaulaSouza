@@ -1,6 +1,6 @@
 ## Hi! I'm Thiago Souza
 
-- 🌱 I'm currently studying Java, C, C#
+- 🌱 I'm currently studying Java, C
 
 <div>
   <a href="https://github.com/ThiagodePaulaSouza">
