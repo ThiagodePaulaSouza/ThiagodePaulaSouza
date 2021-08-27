@@ -1,6 +1,6 @@
-## Salve! Eu sou o Thiago de Paula Souza
+## Hi! I'm Thiago Souza
 
-- 🌱 Estudando Java, C, C#
+- 🌱 I'm currently studying Java, C, C#
 
 <div>
   <a href="https://github.com/ThiagodePaulaSouza">
