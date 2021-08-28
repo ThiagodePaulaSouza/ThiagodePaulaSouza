@@ -9,7 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagodePaulaSouza&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
-<img align="left"  height="200" width="457" src="https://c.tenor.com/GCpJBUm3YBQAAAAC/umm-confused.giff">
 
   <p align="center">
     <br>
