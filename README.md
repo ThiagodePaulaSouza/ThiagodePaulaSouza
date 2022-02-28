@@ -1,7 +1,7 @@
 ## Hi! I'm Thiago Souza
 
 - 🌱 Estudante de Ciência da computação, atualmente cursando o 4º semestre
-- 💙 Interesse: Java, C, C#, Python
+- 💙 Interesse: Java, C, C#, Python, Javascript
 
 <div>
   <a href="https://github.com/ThiagodePaulaSouza">
