@@ -1,9 +1,8 @@
-## Hi! I'm Thiago Souza
+## Hi! I'm Thiago de Paula Souza.
+- 🌱 I'm a Science Computer to be, currently i'm in the 5º semester.
+- 💙 I've been interested in: C#, Javascript, Python, Java
 
-- 🌱 Estudante de Ciência da computação, atualmente cursando o 4º semestre
-- 💙 Interesse: Java, C, C#, Python, Javascript
-
-<div>
+<div align="center">
   <a href="https://github.com/ThiagodePaulaSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagodePaulaSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagodePaulaSouza&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -12,11 +11,13 @@
 
   <p align="center">
     <br>
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,4 +32,4 @@
   <a href="mailto:thiagodepaulasouza@gmail.com" target""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-![Snake animation](https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza/blob/output/github-contribution-grid-snake.svg)
