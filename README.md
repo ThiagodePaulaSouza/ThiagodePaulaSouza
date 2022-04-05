@@ -1,6 +1,7 @@
 ## Hi! I'm Thiago de Paula Souza.
-- 🌱 I'm a Science Computer to be, currently i'm in the 5º semester.
+- 🌱 I'm a Science Computer to be, currently in the 5th semester
 - 💙 I've been interested in: C#, Javascript, Python, Java
+- 🎯 Nowadays I'm studying: HTML, CSS, JS
 
 <div align="center">
   <a href="https://github.com/ThiagodePaulaSouza">
