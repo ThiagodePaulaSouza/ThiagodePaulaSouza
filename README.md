@@ -2,7 +2,7 @@
 - 🌱 I'm a Science Computer to be, currently in the 5th semester
 - 💙 I've been interested in: C#, Javascript, Python, Java
 - 🎯 Nowadays I'm studying: C#, HTML, CSS, JS
-- 🧱 Current Project: Develop a chat using tcp/ip in C#
+- 🧱 Current Project: [Develop a chat using tcp/ip in C#](https://github.com/ThiagodePaulaSouza/APS_5-semestre)
 
 <div align="center">
   <a href="https://github.com/ThiagodePaulaSouza">
