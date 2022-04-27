@@ -29,8 +29,8 @@
 
 <p align="center">
   <br>
-  <a hrrf="https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <a href="https://www.linkedin.com/in/thiago-souza-225771200/" target"_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.linkedin.com/in/thiagodepaulasouza/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:thiagodepaulasouza@gmail.com" target""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
