@@ -1,8 +1,8 @@
 ## Hi! I'm Thiago de Paula Souza.
 - 🌱 I'm a Science Computer to be, currently in the 5th semester
 - 💙 I've been interested in: C#, Javascript, Python, Php
-- 🎯 Nowadays I'm studying: React, .Net, Php, Selenium(Python)
-- 🧱 Current Project: [Learning with Rockeatseat](https://github.com/ThiagodePaulaSouza/Rocketseat-Discover)
+- 🎯 Nowadays I'm studying: React, .Net, Python
+- 🧱 Current: [Learning Data Science](https://github.com/ThiagodePaulaSouza/ImersaoDados-Alura)
 
 <div align="center">
   <a href="https://github.com/ThiagodePaulaSouza">
