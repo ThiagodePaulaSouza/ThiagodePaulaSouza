@@ -32,9 +32,12 @@
     <a href="https://github.com/ThiagodePaulaSouza/tcc-etec" target="_blank">
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </div>
-
-##
+</div>
+  
+  #
+![Snake animation](https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza/blob/output/github-contribution-grid-snake.svg)
+  
+#
 <p align="center">
     <br>
     <a href="https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza">
@@ -46,7 +49,6 @@
     <a href="https://stackoverflow.com/users/16158910/thiago-souza" target"_blank">
       <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
 </p>
-
-![Snake animation](https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza/blob/output/github-contribution-grid-snake.svg)
-#
+  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThiagodePaulaSouza&theme=react-dark)
+#
