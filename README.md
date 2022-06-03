@@ -3,7 +3,7 @@
 - 🌱 I'm a Science Computer to be, currently in the 5th semester
 - 💙 I've been interested in: C#, Javascript, Python, Php
 - 🎯 Nowadays I'm studying: React, .Net, Python
-- 🧱 Current: [Learning Data Science](https://github.com/ThiagodePaulaSouza/ImersaoDados-Alura)
+- 🧱 Currently: [Learning React](https://github.com/ThiagodePaulaSouza/react-exercises)
 #
 
 <div align="center">
