@@ -5,13 +5,14 @@
 - 🎯 Nowadays I'm studying: React, .Net, Python
 - 🧱 Current: [Learning Data Science](https://github.com/ThiagodePaulaSouza/ImersaoDados-Alura)
 #
+
 <div align="center">
   <a href="https://github.com/ThiagodePaulaSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagodePaulaSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagodePaulaSouza&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<div align="center">
+  <div align="center">
   <br>
   <a href="https://github.com/ThiagodePaulaSouza/Javascript-Exercises" target="_blank">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
@@ -47,3 +48,5 @@
 </p>
 
 ![Snake animation](https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza/blob/output/github-contribution-grid-snake.svg)
+#
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThiagodePaulaSouza&theme=react-dark)
