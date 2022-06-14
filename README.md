@@ -1,8 +1,9 @@
 ## Hi! I'm Thiago de Paula Souza.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&color=47a6f0&background=FF000000&vCenter=true&width=450&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;%F0%9F%A7%AA+I'm+a+Science+Computer+to+be+%F0%9F%92%A4;Currently+learning+React+%E2%9A%9B)](https://git.io/typing-svg)
-- 🌱 I'm a Science Computer to be, currently in the 5th semester
-- 💙 I've been interested in: C#, Javascript, Python, Php
-- 🎯 Nowadays I'm studying: React, .Net, Python
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&color=47a6f0&background=FF000000&vCenter=true&width=450&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;%F0%9F%A7%AA+I'm+a+Computer+Scientist+to+be+%F0%9F%92%A4;Recently+I'm+learning+React+%E2%9A%9B)](https://git.io/typing-svg)
+
+- 🌱 I'm a Computer Scientist to be, currently in the 5th semester
+- 💙 I've been interested in: Javascript, Python, C#, Php
+- 🎯 Nowadays I'm studying: React, .NetCore, Python
 - 🧱 Currently: [Learning React](https://github.com/ThiagodePaulaSouza/react-exercises/tree/main/letmeask)
 #
 
