@@ -4,7 +4,7 @@
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
 - 💙 I've been interested in: Javascript, Python, C#, Php
 - 🎯 Nowadays I'm studying: React, .NetCore, Python
-- 🧱 Currently: [Learning React](https://github.com/ThiagodePaulaSouza/react-exercises/tree/main/letmeask)
+- 🧱 Currently: [Learning React](https://github.com/ThiagodePaulaSouza/react-exercises)
 #
 
 <div align="center">
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagodePaulaSouza&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-  <div align="center">
+<div align="center">
   <br>
   <a href="https://github.com/ThiagodePaulaSouza/Javascript-Exercises" target="_blank">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
