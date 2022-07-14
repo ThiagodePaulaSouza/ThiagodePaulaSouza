@@ -4,7 +4,7 @@
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
 - 💙 I've been interested in: Javascript, Python, C#, Php
 - 🎯 Nowadays I'm studying: React, .NetCore, Python
-- 🧱 Currently Project: [Memory game: Adventure Time](https://github.com/ThiagodePaulaSouza/memory-game)
+- 🧱 Currently: [Learning React](https://github.com/ThiagodePaulaSouza/react-exercises)
 #
 
 <div align="center">
