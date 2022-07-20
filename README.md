@@ -4,7 +4,7 @@
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
 - 💙 I've been interested in: Javascript, Python, C#
 - 🎯 Nowadays I'm studying: React, .NetCore, Python
-- 🧱 Currently: [Learning React](https://github.com/ThiagodePaulaSouza/react-exercises)
+- 🧱 Currently: [Calculator with React](https://github.com/ThiagodePaulaSouza/calculadora-react)
 #
 
 <div align="center">
