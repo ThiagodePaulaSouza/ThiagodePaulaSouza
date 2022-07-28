@@ -4,7 +4,7 @@
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
 - 💙 I've been interested in: Javascript, Python, C#
 - 🎯 Nowadays I'm studying: React, .NetCore, Python
-- 🧱 Currently: [Crud Project](https://github.com/geracao/gen-crud-web)
+- 🧱 Currently: [Crud Project](https://github.com/geracao/gen-crud-web/tree/thigas)
 #
 
 <div align="center">
