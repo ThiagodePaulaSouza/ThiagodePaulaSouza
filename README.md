@@ -4,7 +4,7 @@
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
 - 💙 I've been interested in: Javascript, Python, C#
 - 🎯 Nowadays I'm studying: React, .NetCore, Python
-- 🧱 Currently: [Calculator with React](https://github.com/ThiagodePaulaSouza/calculadora-react)
+- 🧱 Currently: [Crud Project](https://github.com/geracao/gen-crud-web)
 #
 
 <div align="center">
@@ -17,18 +17,21 @@
   <br>
   <a href="https://github.com/ThiagodePaulaSouza/Javascript-Exercises" target="_blank">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ThiagodePaulaSouza/react-exercises" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ThiagodePaulaSouza/cs-exercices" target="_blank">
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/Python-Exercises" target="_blank">
+      <a href="https://github.com/ThiagodePaulaSouza/Python-Exercises" target="_blank">
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ThiagodePaulaSouza/JAVA-Exercises" target="_blank">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ThiagodePaulaSouza/php-exercises" target="_blank">
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/JAVA-Exercises" target="_blank">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ThiagodePaulaSouza/tcc-etec" target="_blank">
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"></a>
