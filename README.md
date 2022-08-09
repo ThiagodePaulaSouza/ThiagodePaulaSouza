@@ -3,8 +3,8 @@
 
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
 - 💙 I've been interested in: Typescript, Python, C#
-- 🎯 Nowadays I'm studying: React, Angular, .NetCore, Python
-- 🧱 Currently: [Crud Project](https://github.com/geracao/gen-crud-web/tree/thigas)
+- 🎯 Nowadays I'm studying: Angular, React, .NetCore, Python
+- 🧱 Currently: [Learning Angular](https://github.com/ThiagodePaulaSouza/angular-exercises)
 #
 
 <div align="center">
