@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&color=47a6f0&background=FF000000&vCenter=true&width=450&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;%F0%9F%A7%AA+I'm+a+Computer+Scientist+to+be+%F0%9F%92%A4;Recently+I'm+learning+React+%E2%9A%9B)](https://git.io/typing-svg)
 
 - 🌱 I'm a Computer Scientist to be, currently in the 5th semester
-- 💙 I've been interested in: Typescript, Python, C#
-- 🎯 Nowadays I'm studying: Angular, React, .NetCore, Python
+- 💙 I've been interested in: Typescript, C#
+- 🎯 Nowadays I'm studying: Angular, .NetCore, React, Node
 - 🧱 Currently: [Learning Angular](https://github.com/ThiagodePaulaSouza/angular-exercises)
 #
 
