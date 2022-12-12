@@ -1,9 +1,9 @@
 ## Hi! I'm Thiago de Paula Souza.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&color=47a6f0&background=FF000000&vCenter=true&width=450&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;%F0%9F%A7%AA+I'm+a+Computer+Scientist+to+be+%F0%9F%92%A4;Recently+I'm+learning+React+%E2%9A%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=480&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;I'm+a+Intern+FullStack+Developer+%F0%9F%92%80%F0%9F%A6%86;I+work+with+Angular+and+Dotnet+%F0%9F%8D%B7%F0%9F%97%BF;%F0%9F%A7%AA+I'm+a+Computer+Scientist+to+be+%F0%9F%92%A4)](https://git.io/typing-svg)
 
-- 🌱 I'm a Computer Scientist to be, currently in the 5th semester
+- 🌱 I'm a Computer Scientist to be, currently in the 6th semester
 - 💙 I've been interested in: Typescript, C#
-- 🎯 Nowadays I'm studying: Angular, .NetCore, React, Node
+- 🎯 Nowadays I'm studying: Angular, .NetCore, React
 - 🧱 Currently: [Learning Angular](https://github.com/ThiagodePaulaSouza/angular-exercises)
 #
 
