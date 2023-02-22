@@ -4,7 +4,7 @@
 - 🌱 I'm a Computer Scientist to be, currently in the 6th semester
 - 💙 I've been interested in: Typescript, C#, React, Go
 - 🎯 Nowadays I'm studying: Angular, .NetCore, React
-- 🧱 Currently: [Learning Angular](https://github.com/ThiagodePaulaSouza/angular-exercises)
+- 🧱 Currently: Working on my final paper 💤
 #
 
 <div align="center">
