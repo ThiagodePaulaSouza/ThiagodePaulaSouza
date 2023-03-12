@@ -3,7 +3,7 @@
 
 - 🌱 I'm a Computer Scientist to be, currently in the 6th semester
 - 💙 I've been interested in: Typescript, C#, React, Python
-- 🎯 Nowadays I'm studying: Angular, .NetCore
+- 🎯 Nowadays I'm studying: React Native, Angular, Next, .NetCore
 - 🧱 Currently: Working on my final paper 💤
 #
 
