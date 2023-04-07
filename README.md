@@ -55,6 +55,3 @@
     <a href="https://stackoverflow.com/users/16158910/thiago-souza" target"_blank">
       <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
 </p>
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThiagodePaulaSouza&theme=react-dark)
-#
