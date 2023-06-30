@@ -1,9 +1,9 @@
 ## Hi! I'm Thiago de Paula Souza.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=480&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;I'm+a+Intern+FullStack+Developer+%F0%9F%92%80%F0%9F%A6%86;I'm+working+with+Angular+and+Dotnet+%F0%9F%8D%B7%F0%9F%97%BF;%F0%9F%A7%AA+I'm+a+Computer+Scientist+to+be+%F0%9F%92%A4)](https://git.io/typing-svg)
 
-- 🌱 I'm a Computer Scientist to be, currently in the 6th semester
-- 💙 I've been interested in: Typescript, C#, React, Python
-- 🎯 Nowadays I'm studying: React Native, Angular, Next, .NetCore
+- 🌱 I'm a Computer Scientist to be, currently in the 7th semester
+- 💙 I've been interested in: C#, SQL, React, Rust
+- 🎯 Nowadays I'm studying: React, .NetCore, Angular
 - 🧱 Currently: Working on my final paper 💤
 #
 
@@ -16,28 +16,36 @@
 <div align="center">
   <br>
   <a href="https://github.com/ThiagodePaulaSouza/learning-javascript" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/learning-javascript" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/learning-react" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/ThiagodePaulaSouza/learning-angular" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/learning-csharp" target="_blank">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/ThiagodePaulaSouza/learning-python" target="_blank">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/learning-java" target="_blank">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ThiagodePaulaSouza/tcc-etec" target="_blank">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"></a>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/learning-javascript" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/learning-csharp" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/learning-react" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/learning-angular" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/learning-python" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/learning-java" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThiagodePaulaSouza/tcc-etec" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  </a>
 </div>
   
   #
