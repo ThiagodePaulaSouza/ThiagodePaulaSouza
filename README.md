@@ -1,10 +1,10 @@
 ## Hi! I'm Thiago de Paula Souza.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=480&lines=Howdy!+I'm+Thiago+de+Paula+Souza+%F0%9F%91%8B;I'm+a+Intern+FullStack+Developer+%F0%9F%92%80%F0%9F%A6%86;I'm+working+with+Angular+and+Dotnet+%F0%9F%8D%B7%F0%9F%97%BF;%F0%9F%A7%AA+I'm+a+Computer+Scientist+to+be+%F0%9F%92%A4)](https://git.io/typing-svg)
 
-- 🌱 I'm a Computer Scientist to be, currently in the 7th semester
-- 💙 I've been interested in: C#, SQL, Haskell, C
-- 🎯 Nowadays I'm studying: .Net, React, Angular, Ionic
-- 🧱 Currently: Working on my final paper 💤
+- 🌱 I'm a Computer Scientist to be, currently in the 8th semester
+- 💙 I've been interested in: DSA (Data Structure and Algorithms) as well Design and Analysis of Algorithms
+- 🎯 Nowadays I'm studying: Introduction to DSA
+- 🧱 Currently: Learning DSA every day until 2025
 #
 
 <div align="center">
