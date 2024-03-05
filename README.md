@@ -49,6 +49,9 @@
 </div>
   
   #
+
+![Snake animation](https://github.com/ThiagodePaulaSouza/ThiagodePaulaSouza/blob/output/github-contribution-grid-snake.svg)
+
 <div tooltip="croba do mal">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagodepaulasouza/thiagodepaulasouza/blob/output/github-contribution-grid-snake-dark.svg">
